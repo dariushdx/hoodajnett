@@ -1,10 +1,10 @@
 {
   "address": [
     {
-      "postN": "https://hidajsub.irr//postN.php",
-      "getN": "https://hidajsub.irr/getN.php",
-      "server": "https://hidajsub.irr/server_none.png",
-      "user": "https://hidajsub.irr/user_ban.png"
+      "postN": "https://hidajsub.ir//postN.php",
+      "getN": "https://hidajsub.ir/getN.php",
+      "server": "https://hidajsub.ir/server_none.png",
+      "user": "https://hidajsub.ir/user_ban.png"
     }
   ]
 }
